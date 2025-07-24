@@ -10,7 +10,7 @@ const SignUp = ({user, socket, input, setInput}) => {
         <div className="w-full h-full flex flex=col items-center justify-center">
             <div className="text-center grid grid-rows-3 gap-2 gradient p-8 rounded-md">
                 <h1 className="text-6xl font-bold text-white">Space Sync</h1>
-                <h2 className="text-2xl text-white">Enter you name to join</h2>
+                <h2 className="text-2xl text-white">Enter your name to join</h2>
                 <input type="text" className="text-2xl text-center rounded-md p-2 my-2 text-blue-400 placeholder-blue-300 focus:outline-none" placeholder="..."
                     value={input}
                     onChange={(e) => setInput(e.target.value)}
