@@ -1,3 +1,15 @@
-The app has a lot of space for improvement I left out so can challenge yourself. 
-Make sure once you do add your own features to clean everything up including componenets
-( Message, ServerMessage, Typing ) from Chat.js as an example. Have Fun!
+**Space Sync – Realtime Chat Application**
+A real-time chat application built using **React.js**, **Node.js**, **Express.js**, and **Socket.IO**, enabling seamless communication with instant message delivery.
+
+**Tech Stack**
+
+Frontend:
+- React.js
+- Socket.IO Client
+- Axios
+- Tailwind CSS (optional)
+
+Backend:
+- Node.js
+- Express.js
+- Socket.IO Server
