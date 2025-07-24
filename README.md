@@ -7,7 +7,6 @@ Frontend:
 - React.js
 - Socket.IO Client
 - Axios
-- Tailwind CSS (optional)
 
 Backend:
 - Node.js
